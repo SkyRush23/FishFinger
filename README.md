@@ -1,6 +1,6 @@
 # Fish Finger
 
-GestureOS AI is a touchless Windows desktop controller built for a Gemini-sponsored hackathon. It combines computer vision with the Gemini API to control applications using hand gestures.
+Fish Finger is a touchless Windows desktop controller built for a Gemini-sponsored hackathon. It combines computer vision with the Gemini API to control applications using hand gestures.
 
 ## Features
 
