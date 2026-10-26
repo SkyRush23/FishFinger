@@ -1,6 +1,6 @@
 # Fish Finger
 
-Fish Finger is a touchless Windows desktop controller built for a Gemini-sponsored hackathon. It combines computer vision with the Gemini API to control applications using hand gestures.
+FishFinger is a gesture-based desktop application designed to enable users to interact with and control their Windows computers using predefined hand gestures. The project aims to provide an alternative to traditional input devices such as a mouse and keyboard by making desktop interaction more natural, convenient and intuitive.
 
 ## Features
 
@@ -47,4 +47,4 @@ Add your Gemini API key in `config.py` before running.
 
 ---
 
-Built for MLH Hack Day 2026 - KJU
+25BCNB53
